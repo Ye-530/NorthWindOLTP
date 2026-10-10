@@ -1,0 +1,15 @@
+
+# Archivos temporales de Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Archivos temporales de SQL Server Database Project
+*.dbmdl
+
+*.jfm
+
+# Archivos temporales de compilación
+*.cache

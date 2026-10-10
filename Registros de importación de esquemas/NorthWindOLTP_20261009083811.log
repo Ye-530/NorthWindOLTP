@@ -1,0 +1,90 @@
+9/10/2026 16:38:11	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'NorthWindOLTP' del equipo 'LAPTOP-P4NJ82SE' por el usuario 'HP'.
+9/10/2026 16:38:12	Se inició la importación del esquema de la base de datos.
+9/10/2026 16:38:44	Recopilando credenciales de la base de datos
+9/10/2026 16:38:44	Recopilando opciones de base de datos
+9/10/2026 16:38:44	Recopilando la opción de configuración de ámbito de la base de datos genérica
+9/10/2026 16:38:44	Recopilando usuarios
+9/10/2026 16:38:44	Recopilando roles
+9/10/2026 16:38:44	Recopilando roles de aplicación
+9/10/2026 16:38:44	Recopilando pertenencias a roles
+9/10/2026 16:38:44	Recopilando grupos de archivos
+9/10/2026 16:38:44	Recopilando catálogos de texto completo
+9/10/2026 16:38:44	Recopilando ensamblados
+9/10/2026 16:38:44	Recopilando certificados
+9/10/2026 16:38:44	Recopilando claves asimétricas
+9/10/2026 16:38:44	Recopilando claves simétricas
+9/10/2026 16:38:44	Recopilando claves simétricas cifradas
+9/10/2026 16:38:44	Recopilando esquemas
+9/10/2026 16:38:44	Recopilando colecciones de esquemas XML
+9/10/2026 16:38:44	Recopilando tipos de datos definidos por el usuario
+9/10/2026 16:38:44	Recopilando tipos definidos por el usuario
+9/10/2026 16:38:44	Recopilando tipos de tabla
+9/10/2026 16:38:44	Recopilando claves únicas para tipos de tabla
+9/10/2026 16:38:44	Recopilando claves principales para tipos de tabla
+9/10/2026 16:38:45	Recopilando índices para tipos de tablas
+9/10/2026 16:38:45	Recopilando restricciones CHECK para tipos de tabla
+9/10/2026 16:38:45	Recopilando restricciones DEFAULT para tipos de tabla
+9/10/2026 16:38:45	Recopilando funciones de partición
+9/10/2026 16:38:45	Recopilando esquemas de partición
+9/10/2026 16:38:45	Recopilando funciones
+9/10/2026 16:38:45	Recopilando funciones cifradas
+9/10/2026 16:38:45	Recopilando agregados
+9/10/2026 16:38:45	Recopilando procedimientos
+9/10/2026 16:38:46	Recopilando procedimientos cifrados
+9/10/2026 16:38:46	Recopilando tablas
+9/10/2026 16:38:46	Recopilando claves principales
+9/10/2026 16:38:46	Recopilando restricciones UNIQUE
+9/10/2026 16:38:46	Recopilando claves externas
+9/10/2026 16:38:46	Recopilando restricciones DEFAULT
+9/10/2026 16:38:47	Recopilando restricciones CHECK
+9/10/2026 16:38:47	Recopilando vistas
+9/10/2026 16:38:47	Recopilando vistas cifradas
+9/10/2026 16:38:47	Recopilando índices
+9/10/2026 16:38:47	Recopilando estadísticas
+9/10/2026 16:38:47	Recopilando listas de palabras irrelevantes de índices de texto completo
+9/10/2026 16:38:47	Recopilando listas de propiedades de búsqueda
+9/10/2026 16:38:47	Recopilando propiedades de búsqueda
+9/10/2026 16:38:47	Recopilando índices de texto completo
+9/10/2026 16:38:47	Recopilando índices de almacenamiento de columnas
+9/10/2026 16:38:47	Recopilando índices espaciales
+9/10/2026 16:38:47	Recopilando índices XML
+9/10/2026 16:38:47	Recolección de índices JSON
+9/10/2026 16:38:47	Recopilando índices XML selectivos
+9/10/2026 16:38:47	Recopilando desencadenadores cifrados
+9/10/2026 16:38:47	Recopilando desencadenadores
+9/10/2026 16:38:47	Recopilando DDL triggers cifrados y de CLR
+9/10/2026 16:38:47	Recopilando DDL triggers
+9/10/2026 16:38:47	Creación de la restricción perimetral en curso
+9/10/2026 16:38:47	Recopilando sinónimos
+9/10/2026 16:38:47	Recopilando valores predeterminados
+9/10/2026 16:38:47	Recopilando enlaces UDDT de restricción de datos
+9/10/2026 16:38:47	Recopilando reglas
+9/10/2026 16:38:47	Recopilando enlaces UDDT de restricción de datos
+9/10/2026 16:38:47	Recopilando tipos de mensaje
+9/10/2026 16:38:47	Recopilando colas
+9/10/2026 16:38:47	Recopilando contratos
+9/10/2026 16:38:47	Recopilando servicios
+9/10/2026 16:38:47	Recopilando notificaciones de eventos
+9/10/2026 16:38:47	Recopilando enlaces de servicio remoto
+9/10/2026 16:38:47	Recopilando prioridades de Broker
+9/10/2026 16:38:47	Recopilando firmas
+9/10/2026 16:38:47	Recopilando opciones de compresión
+9/10/2026 16:38:47	Recopilando tipos de secuencia
+9/10/2026 16:38:47	Recopilando directivas de seguridad
+9/10/2026 16:38:47	Recopilar claves de cifrado de columna
+9/10/2026 16:38:47	Recopilando claves maestras de columna
+9/10/2026 16:38:47	Recopilando orígenes de datos externos
+9/10/2026 16:38:47	Recopilando formatos de archivo externos
+9/10/2026 16:38:47	Recopilando modelos externos
+9/10/2026 16:38:47	Recopilando tablas externas
+9/10/2026 16:38:47	Recopilando opciones de compresión de índice XML
+9/10/2026 16:38:47	Recopilando propiedades extendidas
+9/10/2026 16:38:47	Recopilando ensamblados
+9/10/2026 16:38:48	Recopilando credenciales
+9/10/2026 16:38:48	Recopilando inicios de sesión
+9/10/2026 16:38:48	Recopilando auditorías de servidor
+9/10/2026 16:38:50	Buscando elementos duplicados en el proyecto
+9/10/2026 16:38:51	Ha finalizado el procesamiento de los elementos duplicados
+9/10/2026 16:38:53	Finalizó la importación de la base de datos.
+9/10/2026 16:38:53	Se guardó un resumen de la importación en la siguiente ubicación: D:\SQLServer\Data\NorthWindOLTP\NorthWindOLTP\Registros de importación de esquemas\NorthWindOLTP_20261009083811.log
+9/10/2026 16:38:53	Haga clic en Finalizar para continuar...
