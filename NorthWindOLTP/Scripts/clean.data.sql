@@ -1,0 +1,13 @@
+﻿DELETE FROM OrderDetails;
+DELETE FROM Orders;
+DELETE FROM EmployeeTerritories;
+DELETE FROM CustomerCustomerDemo;
+DELETE FROM Products;
+DELETE FROM Territories;
+DELETE FROM Employees;
+DELETE FROM CustomerDemographics;
+DELETE FROM Customers;
+DELETE FROM Region;
+DELETE FROM Shippers;
+DELETE FROM Suppliers;
+DELETE FROM Categories;
